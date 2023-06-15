@@ -15,3 +15,5 @@ I remember my first years as a dev, I was full of ideas and lots of energy. I wa
 
 As a dev/engineer or any role behind digital products, I strongly believe you should consider my suggestions. Your time is limited, if you dont have a very good reason to over work on something. Then don't.
 
+Simple is not
+- writing code that can be the shortest
